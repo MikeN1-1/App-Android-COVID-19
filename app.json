@@ -1,0 +1,17 @@
+{
+  "name": "proyect-app1",
+  "displayName": "proyect-app1",
+  "expo": {
+    "name": "proyect-app1",
+    "slug": "expo-template-bare",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
